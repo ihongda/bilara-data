@@ -190,5 +190,17 @@
   "mahabodhi": {
     "type": "translator",
     "name": "Bhikkhu Mahabodhi"
+  },
+  "mangala": {
+    "type": "translator",
+    "name": "Mangala"
+  },
+  "cone": {
+    "type": "root",
+    "name": "Margaret Cone"
+  },
+  "pts": {
+    "type": "root",
+    "name": "PTS"
   }
 }
