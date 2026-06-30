@@ -4,6 +4,7 @@
   "footer:start": "Jak zacząć czytać sutty",
   "footer:discoursesGuideSujato": "Mowy: konwersacje z Buddhą",
   "footer:generalGuideSujato": "Przewodnik czytelnika",
+  "footer:paliCanonOverview": "Przegląd Kanonu Palijskiego",
   "footer:subjects": "Indeksy",
   "footer:editions": "SuttaCentral Editions: czytaj wybrane przekłady w formie książkowej",
   "footer:technicalInformation": "Technical information",
@@ -16,11 +17,12 @@
   "footer:scvoice": "SuttaCentral Voice—słuchaj sutt",
   "footer:buddhaNexus": "BuddhaNexus—mapowanie sutt z AI",
   "footer:readingfaithfully": "Reading Faithfully—Devotional and contemplative sutta reading for the faithful disciple",
+  "footer:buddhismnet": "Buddhism.net — sprawia, że nauki Buddhy są dostępne",
   "footer:scawesome": "Niesamowita SuttaCentral—Niesamowite rzeczy powstałe z niesamowitości SuttaCentral",
   "footer:home": "Strona główna",
   "footer:acknowledgments": "Podziękowania",
   "footer:licensing": "Licencjonowanie",
   "footer:about": "O nas",
-  "footer:paliCanonOverview": "Przegląd Kanonu Palijskiego",
-  "footer:buddhismnet": "Buddhism.net — sprawia, że nauki Buddhy są dostępne"
+  "footer:byHumans": "",
+  "footer:allWork": ""
 }

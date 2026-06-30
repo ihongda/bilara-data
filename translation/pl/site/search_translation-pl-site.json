@@ -1,12 +1,25 @@
 {
+  "autocomplete:filterSearch": "",
+  "autocomplete:goto": "",
+  "autocomplete:textOr": "",
+  "autocomplete:collection": "",
+  "autocomplete:tipsForSearchSyntax": "",
+  "autocomplete:change": "",
   "search:all": "Wszystko",
   "search:dictionaries": "Słowniki",
   "search:filter": "Filtrowanie",
+  "search:searchOptions": "",
   "search:hint": "Podpowiedź: Szukaj m.in. mn34 lub sn3.2, aby przejść bezpośrednio do tej sutty.",
+  "search:inAllLanguage": "",
+  "search:inputSearchTerm": "",
   "search:loadMore": "Załaduj więcej",
+  "search:matchPartial": "",
+  "search:noResult": "",
   "search:resultsFor": "wyników dla",
   "search:rootTexts": "Teksty źródłowe",
   "search:search": "Szukaj",
+  "search:searchInAllText": "",
   "search:searchResultsText": "Wyniki wyszukiwania dla",
-  "search:translations": "Tłumaczenia"
+  "search:translations": "Tłumaczenia",
+  "search:metaDescriptionText": ""
 }
