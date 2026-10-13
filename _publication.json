@@ -4960,5 +4960,74 @@
         "edition_url": "https://suttacentral.net/dhp"
       }
     ]
+  },
+  "scpub143": {
+    "publication_number": "scpub143",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "",
+    "translation_lang_name": "",
+    "source_url": "",
+    "text_uid": "",
+    "translation_title": "testtest",
+    "translation_subtitle": "",
+    "root_title": "",
+    "is_published": false,
+    "publication_status": "",
+    "pitaka": "",
+    "translation_process": "",
+    "translation_description": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": ""
+    },
+    "author_uid": "ihongda",
+    "author_name": "Hong Da",
+    "author_github_handle": "ihongda",
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": ""
+      }
+    ]
+  },
+  "scpub144": {
+    "publication_number": "scpub144",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "",
+    "translation_lang_name": "",
+    "source_url": "",
+    "text_uid": "",
+    "translation_title": "test",
+    "translation_subtitle": "",
+    "root_title": "",
+    "is_published": false,
+    "publication_status": "",
+    "translation_process": "",
+    "translation_description": "",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": ""
+    },
+    "author_uid": "",
+    "author_name": "",
+    "author_github_handle": "",
+    "edition": [
+      {
+        "edition_number": "1",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "publication_date": "",
+        "edition_url": ""
+      }
+    ]
   }
 }
