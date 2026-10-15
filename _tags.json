@@ -8,5 +8,10 @@
     "tag": "testtest",
     "expansion": "test",
     "definition": "test2"
+  },
+  {
+    "tag": "8path",
+    "expansion": "8path",
+    "definition": "8path"
   }
 ]
