@@ -13,5 +13,10 @@
     "tag": "8path",
     "expansion": "8path",
     "definition": "8path"
+  },
+  {
+    "tag": "stream-entry",
+    "expansion": "stream-entry",
+    "definition": "stream-entry"
   }
 ]
