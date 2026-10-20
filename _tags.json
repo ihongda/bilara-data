@@ -18,5 +18,10 @@
     "tag": "stream-entry",
     "expansion": "stream-entry",
     "definition": "stream-entry"
+  },
+  {
+    "tag": "test2",
+    "expansion": "",
+    "definition": ""
   }
 ]
